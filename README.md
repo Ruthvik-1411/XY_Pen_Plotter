@@ -76,8 +76,20 @@
 * <b>To avoid errors:</b> Now, there is one change that needs to be made in the gcode file. While GRBL and the gcode plotter are built to accommodate a z-axis, the current setup does not have such a feature. To avoid any potential errors, it is necessary to remove all commands before the first pen lift command, which occurs approximately 10 lines into the code. The gcode starts with a pen lift command, and upon completing the drawing, the plotter lifts the pen. However, the gcode leaves the plotter in its last position, whereas we want it to return to the home position after completing the drawing. To achieve this, after the last pen lift command, simply add the line "G00 F350.0 X0.00 Y0.00".
 
 *  The plotter setup is now complete and any drawing can be converted to gcode as seen above. The gcode can be edited a little and it can be sent to the arduino. The working of the plotter can be seen in the <a href="https://youtu.be/HnFqBWPk73Q">demo video</a> below. The gallery with all the images can be found here <a href="Gallery.md">Gallery.md</a>.
-
-[![Pen Plotter from trash](http://img.youtube.com/vi/HnFqBWPk73Q/0.jpg)](http://www.youtube.com/watch?v=HnFqBWPk73Q "Video Title")
+<table align="center">
+  <tr>
+    <td>
+      <a href="http://www.youtube.com/watch?v=HnFqBWPk73Q" target="_blank">
+        <img src="http://img.youtube.com/vi/HnFqBWPk73Q/0.jpg" alt="Pen Plotter from trash" />
+      </a>
+    </td>
+    <td>
+      <a href="http://www.youtube.com/watch?v=aX3epN6Ej_w" target="_blank">
+        <img src="http://img.youtube.com/vi/aX3epN6Ej_w/0.jpg" alt="UGS Setup" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Improvements
 * The rollers used in this plotter are homemade, and some adjustments have been made to optimize their performance. However, incorporating linear bearings along with the rods can yield more ideal results, providing smoother and more precise movement.
