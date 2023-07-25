@@ -87,7 +87,7 @@
 * Gcode Plot extension - [https://github.com/arpruss/gcodeplot/releases](https://github.com/arpruss/gcodeplot/releases)
 * GRBL official repo - [https://github.com/grbl/grbl](https://github.com/grbl/grbl)
 * GRBL 28byj-48 + servo repository - [https://github.com/ruizivo/GRBL-28byj-48-Servo](https://github.com/ruizivo/GRBL-28byj-48-Servo)
-* Edited repository - [https://github.com/Ruthvik-1411/XY_Pen_Plotter/tree/main/grbl](https://github.com/Ruthvik-1411/XY_Pen_Plotter/tree/main/grbl)
+* Edited GRBL folder - [https://github.com/Ruthvik-1411/XY_Pen_Plotter/tree/main/grbl](https://github.com/Ruthvik-1411/XY_Pen_Plotter/tree/main/grbl)
 * UGS - [https://winder.github.io/ugs_website/download/](https://winder.github.io/ugs_website/download/)
 * CNC commands - [https://honingmill.fandom.com/wiki/Configuring_Grbl_v0.9](https://honingmill.fandom.com/wiki/Configuring_Grbl_v0.9)
 * Thanks to chronic mechatronic for the awesome tutorial for software issues - [https://youtu.be/f6xCfzfiD6Q](https://youtu.be/f6xCfzfiD6Q)
