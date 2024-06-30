@@ -104,3 +104,4 @@
 * CNC commands - [https://honingmill.fandom.com/wiki/Configuring_Grbl_v0.9](https://honingmill.fandom.com/wiki/Configuring_Grbl_v0.9)
 * Thanks to chronic mechatronic for the awesome tutorial for software issues - [https://youtu.be/f6xCfzfiD6Q](https://youtu.be/f6xCfzfiD6Q)
 * Demo Video - [http://www.youtube.com/watch?v=HnFqBWPk73Q](http://www.youtube.com/watch?v=HnFqBWPk73Q)
+* UGS Demo Video - [https://youtu.be/aX3epN6Ej_w](https://youtu.be/aX3epN6Ej_w)
